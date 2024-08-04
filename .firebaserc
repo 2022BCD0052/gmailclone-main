@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "clone-dm",
+    "gmail": "clone-dm"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
